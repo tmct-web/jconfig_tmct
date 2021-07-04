@@ -5,5 +5,4 @@ Intel(ALTERA)が公開しているJTAGコンフィグレーションツール「
 
 詳細は下記のページをご覧ください。
 
-[tmct](https://ss1.xrea.com/tmct.s1009.xrea.com/work/ta-ja-7e5g01.html)
-
+[tmct](https://ss1.xrea.com/tmct.s1009.xrea.com/doc/ta-ja-7e5g01.html)
